@@ -1,0 +1,22 @@
+{
+  "name": "helloplugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "helloplugin",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinzjoy/helloplugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinzjoy/helloplugin/issues"
+  },
+  "homepage": "https://github.com/martinzjoy/helloplugin#readme"
+}
